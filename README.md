@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Laporan Monitoring Kualitas Data — Shiny (modular)
 
 ## Run locally
@@ -14,4 +14,4 @@ shiny::runApp("laporan-shiny-split")
 =======
 # dataquality_shinyapps
 dataquality_shinyapps
->>>>>>> d465ac3ce572e37c112a1ff196d13559ea39ce6a
+
