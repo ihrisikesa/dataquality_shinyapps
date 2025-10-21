@@ -1,0 +1,13 @@
+name: dataquality
+title:
+username: sphereslobar
+account: sphereslobar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15749166
+bundleId: 11062643
+url: https://sphereslobar.shinyapps.io/dataquality/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: audit.R|scripts/refresh_cache.R|secret.R
